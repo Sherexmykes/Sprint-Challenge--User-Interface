@@ -1,4 +1,6 @@
+
 If you were to describe semantic HTML to the next cohort of students, what would you say?
+
 HTML is the foundation of building a web page.HyperText Markup Language. You use semantic and non-semantic tags to build and organize your your page.
 
 If you were to describe semantic HTML to the next cohort of students, what would you say?
