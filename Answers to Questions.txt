@@ -1,0 +1,20 @@
+
+If you were to describe semantic HTML to the next cohort of students, what would you say?
+
+HTML is the foundation of building a web page.HyperText Markup Language. You use semantic and non-semantic tags to build and organize your your page.
+
+If you were to describe semantic HTML to the next cohort of students, what would you say?
+Semantic HTML is used to make the markup to easier to understand, instead of using div's to seperate or organize your page. An example would be the
+
+tag. We know that this tag would be used for navigation. It makes the mark up for the webpage easier to understand. This will also help other developers that follow behind your work because they will know what each section is for.
+Name two big differences between display: block; and display: inline;.
+Display:inline; cannot have height and width, but display:block; can have height and width. Block elements are not allowed to be nested insde inline elements, and only takes up as much space as the content will allow. Display: block; you can nest both inline and block elements
+
+What are the 4 areas of the box model?
+Content, Padding, Margin Border
+
+While using flexbox, what axis does the following property work on: align-items: center?
+Cross Axis
+
+Explain why git is valuable to a team of developers.
+It helps maintain version control and it helps developers collaborate.
